@@ -15,7 +15,7 @@ An interactive Flutter web application that allows users to **select an area on 
 ![Demo Screenshot](assets/demo_screenshot2.png)  
 
 ### 🎥 Video Demo
-[![Watch the demo](assets/demo_screenshot1.png)](https://youtu.be/Vmw3BD9fopg)  
+[![Click here to see the video demo](https://img.shields.io/badge/▶%20Click%20here%20to%20see%20the%20video%20demo-red?style=for-the-badge)](https://youtu.be/Vmw3BD9fopg)
 
 ## 🛠️ Tech Stack
 - **Flutter** 3.7.6
