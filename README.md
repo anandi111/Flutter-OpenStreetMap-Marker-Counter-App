@@ -10,8 +10,15 @@ An interactive Flutter web application that allows users to **select an area on 
 - **Reset & Try Again** – Easily clear your selection and start over.
 
 ## 🚀 Demo
+### 📸 Screenshots
 ![Demo Screenshot](assets/demo_screenshot1.png)  
 ![Demo Screenshot](assets/demo_screenshot2.png)  
+
+### 🎥 Video Demo
+<video width="100%" controls>
+  <source src="https://github.com/anandi111/Flutter-OpenStreetMap-Marker-Counter-App/tree/main/assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 🛠️ Tech Stack
 - **Flutter** 3.7.6
